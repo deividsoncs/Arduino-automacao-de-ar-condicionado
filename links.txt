@@ -1,2 +1,2 @@
-Esse projeto tabmém pode ser encontrado no INSTRUCTABLES, tabmém coloque disponível no link abaixo!
+Esse projeto também pode ser encontrado no INSTRUCTABLES, tabmém coloque disponível no link abaixo!
 http://www.instructables.com/id/Ar-Condicionado-controlado-por-Arduino-via-infrave/
