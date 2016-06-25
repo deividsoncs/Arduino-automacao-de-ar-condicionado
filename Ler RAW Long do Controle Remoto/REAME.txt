@@ -1,0 +1,25 @@
+Esse código é de propriedade de terceiros (AnalysIR), me ajudou muito na leitura do RAW
+fornecido por controles remotos de ar condicionados, pois este tem seu tamnho muito maior
+do que o lido pela biblioteca do IR que vem no arduino.
+
+leia:
+
+/*
+Author: AnalysIR
+Revision: 1.0
+
+This code is provided to overcome an issue with Arduino IR libraries
+It allows you to capture raw timings for signals longer than 255 marks & spaces.
+Typical use case is for long Air conditioner signals.
+
+You can use the output to plug back into IRremote, to resend the signal.
+
+This Software was written by AnalysIR.
+
+Usage: Free to use, subject to conditions posted on blog below.
+Please credit AnalysIR and provide a link to our website/blog, where possible.
+
+Copyright AnalysIR 2014
+
+Please refer to the blog posting for conditions associated with use.
+http://www.analysir.com/blog/2014/03/19/air-conditioners-problems-recording-long-infrared-remote-control-signals-arduino/

@@ -1,0 +1,4 @@
+Esse programa padroniza sinal RAW lido pelo receptor IR e converte em um padrão
+aceitavel para envio ao AR Condicionado.
+
+Programa desenvolvido na liguagem JAVA por mim.
